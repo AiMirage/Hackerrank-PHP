@@ -4,3 +4,7 @@
     </a>
     <br>HackerRank problems solutions in PHP
 </p>
+
+|Challenge|Points|Solution|
+:---:|:---:|:---:
+[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 | [Solution](solve-me-first.php)
