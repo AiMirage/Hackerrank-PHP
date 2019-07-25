@@ -7,4 +7,4 @@
 
 |          Subdomain          |                                                           Challenge                                                          | Points |                                                                                        Solution                                                                                       |
 |:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|      Basic Programming      | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)                                                       |    1   | [Solution]()                          |
+|      Basic Programming      | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                                                       |    1   | [Solution]()                          |
